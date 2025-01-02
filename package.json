@@ -17,6 +17,7 @@
     "@modules/mixpanel-analytics": "file:./modules/mixpanel-analytics/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/qr-code": "file:./modules/qr-code/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",

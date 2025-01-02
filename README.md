@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-core](backend/modules)
 - [django-disqus](backend/modules)
 - [django-openai](backend/modules)
+- [social-feed]()
 
 # Getting started: Frontend
 
