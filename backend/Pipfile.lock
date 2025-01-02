@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "dd86501ea79263a09e1fd30ae21c69706f71d3e1dfc2914e649b74bab91766bd"
+            "sha256": "f321a0e7d1837e45ce07713cacffb8521eaaab21122f913c0684123ca2a0ad4b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -99,6 +99,10 @@
         "cb-django-calendly": {
             "editable": true,
             "path": "./modules/django_calendly"
+        },
+        "cb-django-core": {
+            "editable": true,
+            "path": "./modules/django_core"
         },
         "certifi": {
             "hashes": [
@@ -522,7 +526,6 @@
             "version": "==2.7.2"
         },
         "googleapis-common-protos": {
-            "extras": [],
             "hashes": [
                 "sha256:c3e7b33d15fdca5374cc0a7346dd92ffa847425cc4ea941d970f13680052ec8c",
                 "sha256:d7abcd75fabb2e0ec9f74466401f6c119a0b498e27370e9be4c94cb7e382b8ed"
