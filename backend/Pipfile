@@ -39,3 +39,4 @@ azure-storage-blob = "==12.23.1"
 cb-django-calendly = {editable = true, path = "./modules/django_calendly"}
 cb-django-core = {editable = true, path = "./modules/django_core"}
 cb-django-disqus = {editable = true, path = "./modules/django_disqus"}
+cb-django-openai = {editable = true, path = "./modules/django_openai"}
